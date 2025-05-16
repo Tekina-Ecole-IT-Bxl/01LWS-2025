@@ -55,7 +55,7 @@ sudo apt install git -y
 Clone the repository provided by your instructor:
 
 ~~~
-git clone https://github.com/yaba-consulting/docker-training.git
+git clone https://github.com/yaba-consulting/docker-training.git 
 ~~~
 
 Replace the URL above if a different repository is provided.

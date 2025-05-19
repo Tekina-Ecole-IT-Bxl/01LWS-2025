@@ -1,4 +1,4 @@
-# 🚨 MISSION D2 — CHALLENGE: Setup a Web Server Like a Pro
+# 🚨 MISSION 2 - D2 — CHALLENGE: Setup a Web Server Like a Pro
 
 ## 🎯 Objective
 
